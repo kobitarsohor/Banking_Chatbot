@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+speechrecognition
+pydub
+python-dotenv
+llama-index-core
+llama-index-llms-groq
+llama-index-vector-stores-pinecone
+llama-index-embeddings-huggingface
+pinecone
+pandas
+python-multipart
